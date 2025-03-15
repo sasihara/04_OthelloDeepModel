@@ -1,1 +1,3 @@
 # 04_OthelloDeepModel
+03_thinkerV3で使用するTensorflowの学習モデルファイルです。
+まだ無学習な状態のファイルです。
